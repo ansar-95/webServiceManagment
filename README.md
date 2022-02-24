@@ -5,7 +5,7 @@
 - Middleware
 - Ajout d'une candidature
 - Rechercher une candidature spécifique
-- Récuperer les informations d'un site d'offre d'emploi ( indeed )
+- Récuperer les informations de l'offre d'emploi par exemple indeed (Technique : WebScrapping)
 
 
 ### Techno NodeJS, Moongose
